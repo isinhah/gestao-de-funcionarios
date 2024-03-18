@@ -6,7 +6,6 @@ public class Employee {
     private String email;
     private String gender;
     private int departmentId;
-
     public Employee() {}
 
     public Employee(int id, String name, String email, String gender, int departmentId) {
