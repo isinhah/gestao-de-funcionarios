@@ -32,9 +32,9 @@ Pré-requisitos: Java 17 e MySQLConnector
 
 ```bash
 # Clone o repositório
-    git clone https://github.com/isinhah/funcionario-departamento.git
+    git clone https://github.com/isinhah/gestao-de-funcionarios.git
 # Entre na pasta do projeto
-    cd funcionario-departamento
+    cd gestao-de-funcionarios
 # Configure as propriedades do banco de dados
     arquivo db.properties
 # Execute o projeto
